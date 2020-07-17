@@ -11,7 +11,7 @@
 (opens the postgres database)
 5. \l 
 (list the existing databases)
-6. \c <dbname>
+6. \c dbname
   Eg:- \c pressuredb
   (this switches to "pressuredb" database from postgres)
 7. \dt
